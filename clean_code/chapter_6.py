@@ -53,4 +53,27 @@ class AbstractPoint(abc.ABC):
         raise NotImplementedError
 
 
-class
+class VehicleConcrete:
+    """
+    Listing 6-3. The Vehicle class
+
+    Here we have a class that is clearly implemented in terms of fuel.
+    It exposes the implementation of the fuel tank.
+    """
+
+    def get_fuel_tank_capacity_in_gallons(self) -> float:
+        raise NotImplementedError
+
+    def get_gallons_of_fuel_in_tank(self) -> float:
+        raise NotImplementedError
+
+
+class VehicleAbstract:
+    """
+    Listing 6-4. The Vehicle class
+
+    The Vehicle class in Listing 6-4 is a much better design.
+    It hides the implementation of the fuel tank.
+    """
+    def get_percent_fuel_remaining(self) -> float:
+        raise NotImplementedError
