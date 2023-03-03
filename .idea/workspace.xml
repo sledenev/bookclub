@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d10ac7c6-7ce5-4507-b66a-aa9ca6c57baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clean_code/chapter_6/object_oriented_geometry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_code/chapter_6/procedural_shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/clean_code/chapter_6/procedural_geometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clean_code/chapter_7_error_handling/7_1_error_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clean_code/chapter_7_error_handling/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +38,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/clean_code/chapter_6" />
@@ -64,7 +65,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677233247539</updated>
-      <workItem from="1677233251556" duration="3989000" />
+      <workItem from="1677233251556" duration="4644000" />
+      <workItem from="1677253418553" duration="271000" />
+      <workItem from="1677839983352" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677234724617</created>
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677236645970</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add object oriented geometry">
+      <created>1677237293938</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677237293938</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +134,7 @@
     <MESSAGE value="refactor" />
     <MESSAGE value="update ignore" />
     <MESSAGE value="add procedural shape" />
-    <option name="LAST_COMMIT_MESSAGE" value="add procedural shape" />
+    <MESSAGE value="add object oriented geometry" />
+    <option name="LAST_COMMIT_MESSAGE" value="add object oriented geometry" />
   </component>
 </project>
