@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d10ac7c6-7ce5-4507-b66a-aa9ca6c57baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clean_code/chapter_7_error_handling/7_1_error_codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clean_code/chapter_7_error_handling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clean_code/chapter_7_error_handling/7_2_exception.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_code/chapter_7_error_handling/7_1_error_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/clean_code/chapter_7_error_handling/7_1_error_codes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <updated>1677233247539</updated>
       <workItem from="1677233251556" duration="4644000" />
       <workItem from="1677253418553" duration="271000" />
-      <workItem from="1677839983352" duration="765000" />
+      <workItem from="1677839983352" duration="2194000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677234724617</created>
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677237293938</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add listing">
+      <created>1677840851105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677840851105</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +142,7 @@
     <MESSAGE value="update ignore" />
     <MESSAGE value="add procedural shape" />
     <MESSAGE value="add object oriented geometry" />
-    <option name="LAST_COMMIT_MESSAGE" value="add object oriented geometry" />
+    <MESSAGE value="add listing" />
+    <option name="LAST_COMMIT_MESSAGE" value="add listing" />
   </component>
 </project>

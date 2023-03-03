@@ -21,6 +21,15 @@ class DeviceRecord(object):
 
 
 class DeviceController(object):
+    """
+    The problem with these approaches is that they clutter the caller.
+    The caller must check for errors immediately after the call.
+    Unfortunately, it’s easy to forget. For this reason it is better to
+     throw an exception when you encounter an error. The calling code is cleaner.
+     Its logic is not obscured by error handling.    
+    """
+
+
     record: DeviceRecord
 
     def get_handle(self, device_id: int) -> DeviceHandle:
