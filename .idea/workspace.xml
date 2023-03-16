@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d10ac7c6-7ce5-4507-b66a-aa9ca6c57baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clean_code/chapter_7_error_handling/7_2_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clean_code/chapter_7_error_handling/bad_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_code/chapter_7_error_handling/7_1_error_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/clean_code/chapter_7_error_handling/7_1_error_codes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <updated>1677233247539</updated>
       <workItem from="1677233251556" duration="4644000" />
       <workItem from="1677253418553" duration="271000" />
-      <workItem from="1677839983352" duration="2194000" />
+      <workItem from="1677839983352" duration="6008000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677234724617</created>
@@ -118,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677840851105</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add listing">
+      <created>1677842520707</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677842520707</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
